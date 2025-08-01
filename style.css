@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="assets/style.css">
+body {
+    background-color:pink;
+} 
+body {
+    background-color: rgb(230, 0, 238);
+}
+footer {
+    background-color:rgb(230, 0, 238);
+    color: rgb(from color r g b);
+}
+footer {
+    background-color: rgb(230, 0, 238);
+    color: rgb(230, 0, 238);
+    bottom:0;
+    position:fixed;
+    width:100%;
+}
