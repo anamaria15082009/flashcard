@@ -3,16 +3,40 @@ body {
     background-color:pink;
 } 
 body {
-    background-color: rgb(230, 0, 238);
+    background-color: rgb(243, 109, 248);
 }
 footer {
-    background-color:rgb(230, 0, 238);
+    background-color:rgb(243, 109, 248);
     color: rgb(from color r g b);
 }
 footer {
-    background-color: rgb(230, 0, 238);
-    color: rgb(230, 0, 238);
+    background-color: rgb(243, 109, 248);
+    color: rgb(243, 109, 248);
     bottom:0;
     position:fixed;
     width:100%;
 }
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+}
+    height:2rem;
+        margin-top: 0,5rem;
+         font-family: Bai Jamjuree;
+         #container {
+    display:flex ;
+}.cartao {
+    margin: 1rem 1rem;
+}
+<div class="cartao__conteudo__pergunta">
+    <p>Qm sou eu?</p>
+</div>                        
+<div class="cartao__conteudo__resposta">
+    <p>Meu nome é Ana, tenho 15 anos, sou carinhosa, responsavél, educada, caprichosa.</p>
+</div>
+<div class="cartao__conteudo__pergunta">
+    <p>Meu presente?</p>
+</div>                        
+<div class="cartao__conteudo__resposta">
+    <p>Atualmente eu namoro, estudo no novo ensino médio cursando 'exatas'.</p>
+</div>
